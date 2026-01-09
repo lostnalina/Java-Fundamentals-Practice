@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class TempatureTracker {
+public class
+TempatureTracker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
